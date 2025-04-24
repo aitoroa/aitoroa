@@ -1,5 +1,5 @@
 - 👋 Hi there! I’m Aitor Ochoa Arrastio
 - 🎨 I'm a **Multimedia and Graphic Design** student at **UDIT University** in Madrid
-- 🌱 Currently, I'm diving into the **Foundations of Web Design**
+- 🌱 Currently, I'm diving into the **Fundamentals of Web Design**
 - 📫 aitor.ochoa@alumnos.udit.es
 - 🐲 Ametsik gabeko bizitza, izarrik gabeko gaua
